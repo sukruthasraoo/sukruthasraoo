@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sukruthasraoo
 - 👀 I’m a enthusiastic learner  
-- 🌱 I’m currently btech upgrad in domain of computer science with specialization of artificial intelligence and machine learning 
+- 🌱 I’m a btech upgrad in the domain of computer science with specialization of artificial intelligence and machine learning 
 - 
 
 
